@@ -192,6 +192,7 @@ obj/
 # Legacy Eclipse project files
 .cproject
 .settings/
+.idea
 
 # Mobile Tools for Java (J2ME)
 
